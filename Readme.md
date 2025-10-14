@@ -1,6 +1,6 @@
 # 💰 Expense Tracker
 
-A simple and elegant web-based **Expense Tracker** built with HTML, CSS, and JavaScript.  
+A simple and elegant web-based **Expense Tracker** built with **HTML**, **CSS**, and **JavaScript**.  
 It helps you manage your **daily expenses and income**, providing a clear overview of your financial balance.
 
 ---
@@ -13,7 +13,7 @@ It helps you manage your **daily expenses and income**, providing a clear overvi
 
 ## 🖼️ Preview
 
-![Expense Tracker Preview](Image/expensepreview.png)
+![Expense Tracker Preview](/Image/previewe.png)
 
 ---
 
