@@ -7,7 +7,7 @@ It helps you manage your **daily expenses and income**, providing a clear overvi
 
 ## 🌐 Live Demo
 
-👉 [https://expense-tracker-xo1.netlify.app/](https://expense-tracker-xo1.netlify.app/)
+👉 [Live Demo](https://expense-tracker-xo1.netlify.app/)
 
 ---
 
