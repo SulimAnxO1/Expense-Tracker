@@ -7,7 +7,7 @@ It helps you manage your **daily expenses and income**, providing a clear overvi
 
 ## 🌐 Live Demo
 
-👉 [Live Demo](https://expense-tracker-xo1.netlify.app/)
+👉 [Live Demo]()
 
 ---
 
@@ -29,6 +29,6 @@ It helps you manage your **daily expenses and income**, providing a clear overvi
 
 ## 🛠️ Technologies Used
 
-- 🧱 HTML
-- 🎨 CSS
-- ⚡ JavaScript
+- 🧱 **HTML**
+- 🎨 **CSS**
+- ⚡ **JavaScript**
