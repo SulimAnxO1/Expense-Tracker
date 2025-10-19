@@ -7,7 +7,7 @@ It helps you manage your **daily expenses and income**, providing a clear overvi
 
 ## 🚀 Live Demo
 
-### 🌐 [**Live Demo**](https://sulimanxo1.github.io/Pricing-Card/)
+### 🌐 [**Live Demo**]()
 
 ---
 
