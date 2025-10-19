@@ -5,9 +5,9 @@ It helps you manage your **daily expenses and income**, providing a clear overvi
 
 ---
 
-## 🌐 Live Demo
+## 🚀 Live Demo
 
-👉 [Live Demo]()
+### 🌐 [**Live Demo**]()
 
 ---
 
